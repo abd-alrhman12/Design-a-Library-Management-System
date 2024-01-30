@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HW2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  account.cpp
+  book.cpp
+  bookbase.cpp
+  bookitem.cpp
+  Date.cpp
+  general_member_account.cpp
+  lib.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\use_ansi.h(49,20): warning C4081: expected 'identifier'; found ','
+  Librarian.cpp
+  LibraryCard.cpp
+  main.cpp
+  Generating Code...
+  HW2.vcxproj -> C:\Users\Abood\Desktop\HW2\Debug\Design a Library Management System.exe

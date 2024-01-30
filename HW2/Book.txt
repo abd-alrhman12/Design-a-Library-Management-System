@@ -1,0 +1,31 @@
+ISBN : 1
+title : asd hsggv
+subject : ash hghsh
+author : shhs bsnb
+number of the rack : 2
+number of publishers : 2
+Publishers : 
+1. ahs jshh
+2. ahjhjs jsjsj
+Publication date : 1/1/2000
+-------------------------------------------------------------------------
+ISBN : 1
+title : a
+subject : a
+author : a
+number of the rack : 1
+number of publishers : 1
+Publishers : 
+1. a
+Publication date : 1
+-------------------------------------------------------------------------
+ISBN : 2
+title : b b
+subject : b
+author : b
+number of the rack : 2
+number of publishers : 1
+Publishers : 
+1. b
+Publication date : 2
+-------------------------------------------------------------------------
